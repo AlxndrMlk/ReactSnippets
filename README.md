@@ -1,2 +1,2 @@
 # ReactSnippets
-Yeah, simple yet useful React.js snippets :)
+Simple and useful React.js snippets :)
